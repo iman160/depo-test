@@ -1,20 +1,18 @@
-h1{
-	color :Blue 
-	Font-Famili : Georgia ;
+h1 {
+	color: Blue; 
+	font-family: Georgia;
 }
 
-h2{ color : Purple ;
+h2 { 
+  color: Purple;
 }
 
-p{ color: Green ;
-   Font-size : 50px ;
-   }
-
-li{ 
-	color: Pink :
-	font-family : serif :
+p {
+  color: green ;
+  font-size: 50px;
 }
 
-
-
-
+li { 
+	color: pink;
+	font-family: serif;
+}
